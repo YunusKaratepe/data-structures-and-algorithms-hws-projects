@@ -7,4 +7,4 @@
 
 #for example:
     "awake-> awoke" is one step.
-    
+    so distance between awake and awoke is 1.
